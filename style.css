@@ -207,8 +207,8 @@ p {
 
 .right-box {
     float: right;
-    width: 288px;
-    margin-left: 0px;
+    width: 300px;
+    margin-left: 18px;
 }
 
 .left-box {
@@ -271,7 +271,8 @@ p.LiT {
 #header h1 {
     float: left;
     color: #fafafa;
-    margin-right: 48px;
+    margin-left: 36px;
+    margin-right: 36px;
 }
 
 nav {
@@ -344,7 +345,7 @@ p.new {
     background-color: #feb737;
     color: #fff;
     text-align: center;
-    line-height: 80px;
+    line-height: 70px;
     font-size: 48px;
     text-decoration: none;
     position: fixed;
